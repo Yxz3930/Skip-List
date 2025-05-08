@@ -1,0 +1,4 @@
+/home/yxz/SkipList_Template/build/CMakeFiles/SkipListTemplate_Test.dir
+/home/yxz/SkipList_Template/build/CMakeFiles/stress_test.dir
+/home/yxz/SkipList_Template/build/CMakeFiles/edit_cache.dir
+/home/yxz/SkipList_Template/build/CMakeFiles/rebuild_cache.dir

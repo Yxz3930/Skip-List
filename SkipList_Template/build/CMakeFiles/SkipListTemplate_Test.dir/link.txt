@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/SkipListTemplate_Test.dir/test/SkipListTemplate_Test.cpp.o CMakeFiles/SkipListTemplate_Test.dir/src/SkipList_Template.cpp.o -o /home/yxz/SkipList_Template/output/SkipListTemplate_Test

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/yxz/SkipList_Template/build",
+  "command": "/usr/bin/c++  -I/home/yxz/SkipList_Template/include -g -Wall -O2 -o CMakeFiles/SkipListTemplate_Test.dir/test/SkipListTemplate_Test.cpp.o -c /home/yxz/SkipList_Template/test/SkipListTemplate_Test.cpp",
+  "file": "/home/yxz/SkipList_Template/test/SkipListTemplate_Test.cpp",
+  "output": "CMakeFiles/SkipListTemplate_Test.dir/test/SkipListTemplate_Test.cpp.o"
+},
+{
+  "directory": "/home/yxz/SkipList_Template/build",
+  "command": "/usr/bin/c++  -I/home/yxz/SkipList_Template/include -g -Wall -O2 -o CMakeFiles/SkipListTemplate_Test.dir/src/SkipList_Template.cpp.o -c /home/yxz/SkipList_Template/src/SkipList_Template.cpp",
+  "file": "/home/yxz/SkipList_Template/src/SkipList_Template.cpp",
+  "output": "CMakeFiles/SkipListTemplate_Test.dir/src/SkipList_Template.cpp.o"
+},
+{
+  "directory": "/home/yxz/SkipList_Template/build",
+  "command": "/usr/bin/c++  -I/home/yxz/SkipList_Template/include -g -Wall -O2 -o CMakeFiles/stress_test.dir/test/stress_test.cpp.o -c /home/yxz/SkipList_Template/test/stress_test.cpp",
+  "file": "/home/yxz/SkipList_Template/test/stress_test.cpp",
+  "output": "CMakeFiles/stress_test.dir/test/stress_test.cpp.o"
+},
+{
+  "directory": "/home/yxz/SkipList_Template/build",
+  "command": "/usr/bin/c++  -I/home/yxz/SkipList_Template/include -g -Wall -O2 -o CMakeFiles/stress_test.dir/src/SkipList_Template.cpp.o -c /home/yxz/SkipList_Template/src/SkipList_Template.cpp",
+  "file": "/home/yxz/SkipList_Template/src/SkipList_Template.cpp",
+  "output": "CMakeFiles/stress_test.dir/src/SkipList_Template.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/stress_test.dir/test/stress_test.cpp.o CMakeFiles/stress_test.dir/src/SkipList_Template.cpp.o -o /home/yxz/SkipList_Template/output/stress_test
