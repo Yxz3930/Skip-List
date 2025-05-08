@@ -48,8 +48,8 @@ int main()
     // 删除
     std::cout << std::endl
               << "===== delete operator =====" << std::endl;
-    sl.earse(1);
-    sl.earse(2);
+    sl.erase(1);
+    sl.erase(2);
     sl.display();
 
     sl.insert(1, 100);
@@ -60,8 +60,8 @@ int main()
     // 删除不存在的键
     std::cout << std::endl
               << "===== delete operator (non-exist key) =====" << std::endl;
-    sl.earse(100);
-    sl.earse(200);
+    sl.erase(100);
+    sl.erase(200);
     sl.display();
 
     return 0;

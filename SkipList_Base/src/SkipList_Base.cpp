@@ -97,7 +97,7 @@ namespace skip_list_base
         }
     }
 
-    void SkipList::earse(int key)
+    void SkipList::erase(int key)
     {
         Node *recordPreNode[MAX_LEVEL + 1];
         Node *curNode = this->header;

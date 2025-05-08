@@ -85,7 +85,7 @@ public:
 
     /// @brief 删除键值对节点
     /// @param key 键
-    void earse(int key);
+    void erase(int key);
     
 
     /// @brief 打印跳表
